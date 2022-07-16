@@ -2,12 +2,22 @@
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 #EXTINF:-1 group-title="CANALES FHD",HISTORIA FHD
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1,LA: SAL  CANAL 2
+http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="canal 4" tvg-logo="" group-title="CANALES FHD",CANAL 4 FHD
 http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1,LA: SAL  CANAL 6
+http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
+#EXTINF:-1,LA: SAL VTV Canal 35
+http://wifitv1.ddns.net:83/20700110/35154483/267508
 #EXTINF:-1 tvg-id="" tvg-name="tvm" tvg-logo="" group-title="CANALES FHD",TVM FHD
 http://168.227.22.18:1935/live/mobile-073/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvo" tvg-logo="" group-title="CANALES FHD",TVO FHD
 http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+#EXTINF:-1,LA: SAL Canal 21
+http://wifitv1.ddns.net:83/20700110/35154483/267509
+#EXTINF:-1,LA: SAL Canal 19
+http://wifitv1.ddns.net:83/20700110/35154483/267510
 #EXTINF:-1 tvg-id="" tvg-name="bein sport" tvg-logo="" group-title="CANALES FHD",BEIN SPORT FHD
 http://168.227.22.18:1935/live/mobile-007/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="spn2 FHD" tvg-logo="" group-title="CANALES FHD",SPN2 FHD
@@ -58,32 +68,6 @@ http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOWTV FHD" tvg-logo="" group-title="CANALES FHD",WOWTV FHD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w1240187954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVX" tvg-logo="https://s9.postimg.org/h9mnm1ylb/HBO_Plus.png" group-title="CANALES FHD",TVX HD
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1484468436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 12" tvg-logo="" group-title="CANALES FHD",CANAL 12
-http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b489472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="" group-title="CANALES FHD",CANAL 21
-http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 27" tvg-logo="" group-title="CANALES FHD",CANAL 27  FHD
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_152_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="" group-title="CANALES FHD",CANAL 11
-http://198.24.135.42/canal11/canal11/chunklist_w1850924341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ORBITATV" tvg-logo="" group-title="CANALES FHD",ORBITATV
-https://5ab29cc78f681.streamlock.net/orbitatv1/livestream/chunklist_w1824176940.m3u8
-#EXTINF:-1,LA: SAL  CANAL 12
-http://wifitv1.ddns.net:83/20700110/35154483/267511
-#EXTINF:-1,LA: SAL  CANAL 2
-http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
-#EXTINF:-1,LA: SAL  CANAL 4
-https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1552264024~acl=*~data=hdntl~hmac=e7c9d8af4ea15846b48093862dfee6af5b5160d0359bbf6cb4d3d1dc121bf5b5
-#EXTINF:-1,LA: SAL  CANAL 6
-http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
-#EXTINF:-1,LA: SAL Canal 19
-http://wifitv1.ddns.net:83/20700110/35154483/267510
-#EXTINF:-1,LA: SAL Canal 21
-http://wifitv1.ddns.net:83/20700110/35154483/267509
-#EXTINF:-1,LA: SAL VTV Canal 35
-http://wifitv1.ddns.net:83/20700110/35154483/267508
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="https://s31.postimg.org/sdj2dsfkr/Sky_Sports_Premier_League_201708.png" group-title="CANALES FHD",Sky Sports Premier League
 https://1fiafzq.oloadcdn.net/dl/l/9xmqHJgsiPMnu6iw/IA2oSidZnLA/LA+LIGA+DE+LA+JUSTICIA+VERPELICULASULTRA.COM?mime=true
 #EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="" group-title="CANALES FHD",SPACE FHD
