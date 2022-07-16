@@ -72,21 +72,11 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w1240187954.m3u8
 https://1fiafzq.oloadcdn.net/dl/l/9xmqHJgsiPMnu6iw/IA2oSidZnLA/LA+LIGA+DE+LA+JUSTICIA+VERPELICULASULTRA.COM?mime=true
 #EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="" group-title="CANALES FHD",SPACE FHD
 https://oql1j7.oloadcdn.net/dl/l/SLRgKLPjcfGN-Seh/mSu2kEnvaJk/Bad.samaritan.2018.1080p-dual-lat-cinecalidad.to.mp4?mime=true
-
 #EXTINF:-1,TC Televisiðn
 http://45.225.47.234:41/play/a0el/index.m3u8
-
-http://45.225.47.234:41/play/a0el/index.m3u8
-
-
-
+http://45.225.47.234:41/play/a0el/index.m3u
 #EXTINF:-1,CABLEMAR TV HD
 http://168.232.168.242:8089/play/a0hu/index.m3u8
-
-
-
-
-
 #EXTINF:-1,tv
 http://190.83.119.67:8000/play/a0tl/index.m3u8
 #EXTINF:-1,Claro Cinema
@@ -101,8 +91,6 @@ http://45.225.47.234:41/play/a0ep/index.m3u8
 http://45.179.194.114:48000/play/a0ph/index.m3u8
 #EXTINF:-1,VISION SUR
 http://200.60.18.178:21214/play/a0cm/index.m3u8
-
-
 #EXTINF:-1,CABLEMAR TV HD
 http://168.232.168.242:8089/play/a0hu/index.m3u8
 #EXTINF:-1,Canal Estrellas HD
