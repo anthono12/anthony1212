@@ -75,7 +75,7 @@ http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 #EXTINF:-1,LA: SAL  CANAL 2
 http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
 #EXTINF:-1,LA: SAL  CANAL 4
-http://mylatinotv.com:8080/Reyno121212321/XgPY4fH5XwPJ/1194193
+https://telecorporacion-es.cdn.vustreams.com/live/e5f33de7-8fad-4766-b51d-e782a32ef34a/live.isml/live-video=3000000.m3u8
 #EXTINF:-1,LA: SAL  CANAL 6
 http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
 #EXTINF:-1,LA: SAL Canal 19
