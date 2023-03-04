@@ -15,7 +15,7 @@ http://168.227.22.18:1935/live/mobile-073/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvo" tvg-logo="" group-title="CANALES FHD",TVO FHD
 http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1,LA: SAL Canal 21
-http://wifitv1.ddns.net:83/20700110/35154483/267509
+https://telecorporacion-es.cdn.vustreams.com/live/e5f33de7-8fad-4766-b51d-e782a32ef34a/live.isml/live-video=3000000.m3u8
 #EXTINF:-1,LA: SAL Canal 19
 http://wifitv1.ddns.net:83/20700110/35154483/267510
 #EXTINF:-1 tvg-id="" tvg-name="bein sport" tvg-logo="" group-title="CANALES FHD",BEIN SPORT FHD
